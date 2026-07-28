@@ -23,7 +23,10 @@ Google Sites (for portfolio embedding)
 📁 Files in This Repository
 cyclistic.ipynb — Full Jupyter Notebook with code and analysis
 
-View Presentation (Google Slides)
+## Presentation
+Presentation (PDF) File 
+presentation (Google Slides):
+https://docs.google.com/presentation/d/1ze3yGampLp_e0IUlOQmIKFU9OAcEnkE9hA1amiLzoS8/edit?usp=sharing
 
 README.md — Project summary and documentation
 
