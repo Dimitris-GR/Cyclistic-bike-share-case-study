@@ -1,6 +1,6 @@
 
 📊 Cyclistic Bike‑Share case study Analysis
-A complete data analysis case study exploring usage patterns of Cyclistic bike‑share riders.
+a complete data analysis case study exploring usage patterns of Cyclistic bike‑share riders.
 This project follows the Google Data Analytics Capstone structure and is implemented using Python.
 
 🔍 Project Overview
@@ -19,14 +19,15 @@ GitHub
 Google Sites (portfolio embedding)
 
 📁 Files in This Repository
+
 cyclistic.ipynb — Full Jupyter Notebook with code and analysis
 
-#Presentation (Google Slides):  
+Presentation (Google Slides): 
 https://docs.google.com/presentation/d/1ze3yGampLp_e0IUlOQmIKFU9OAcEnkE9hA1amiLzoS8/edit?usp=sharing
 
-🌐 Portfolio Link
+- - -
 
-https://sites.google.com/view/dimitris-drogoutis
+🌐 Portfolio Link: https://sites.google.com/view/dimitris-drogoutis
 
 👤 Author
 Dimitris  
