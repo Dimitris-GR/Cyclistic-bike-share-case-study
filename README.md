@@ -14,10 +14,6 @@ VS Code
 
 Jupyter Notebook
 
-GitHub
-
-Google Sites (portfolio embedding)
-
 📁 Files in This Repository
 
 cyclistic.ipynb — Full Jupyter Notebook with code and analysis
