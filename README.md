@@ -26,5 +26,4 @@ https://docs.google.com/presentation/d/1ze3yGampLp_e0IUlOQmIKFU9OAcEnkE9hA1amiLz
 🌐 Portfolio Link: https://sites.google.com/view/dimitris-drogoutis
 
 👤 Author
-Dimitris  
-Data Analyst
+Dimitris Drogoutis — Data Analyst
